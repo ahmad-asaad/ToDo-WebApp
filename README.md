@@ -1,6 +1,6 @@
 # To-Do Web App
 
-A simple To-Do Web App to pratice JavaScript.
+A simple To-Do Web App to practice JavaScript.
 
 Note : I did not make the HTML and CSS used in this project.
 
