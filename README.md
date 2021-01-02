@@ -2,7 +2,7 @@
 
 A simple To-Do Web App to practice JavaScript.
 
-Note : I did not make the HTML and CSS used in this project.
+PS : I only wrote the JavaScript code, I did not make the HTML or the CSS used in this project.
 
 ### Screenshot
 
