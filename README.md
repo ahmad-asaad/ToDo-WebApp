@@ -1,7 +1,7 @@
 # To-Do Web App
 
-A To-Do Web App made using Node.js
-and MongoDB to store the ToDo list items online.
+A To-Do Web App made using **Node.js**
+and **MongoDB** to store the ToDo list items online.
 
 I used the Express module to handle the requests/responses,
 and the MVC approach to organize my code.
